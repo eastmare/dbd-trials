@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Trials",
-	"Version": 1761626450,
+	"Version": 1761887737,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -427,7 +427,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -511,7 +510,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -601,7 +599,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -673,7 +670,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -729,7 +725,11 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
 			"KillerOfferings": []
 		},
 		{
@@ -799,7 +799,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -873,9 +872,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				4
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -996,9 +994,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				4
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1123,7 +1120,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -1225,7 +1221,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -1295,7 +1290,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -1371,7 +1365,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -1438,9 +1431,6 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				1,
-				2,
 				5
 			],
 			"KillerOfferings": [
@@ -1513,7 +1503,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -1538,7 +1527,7 @@
 				0,
 				3
 			],
-			"AntiFacecampPermitted": false,
+			"AntiFacecampPermitted": true,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
@@ -1588,7 +1577,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -1665,7 +1653,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -1824,7 +1811,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -1899,7 +1885,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -2076,7 +2061,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -2151,7 +2135,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -2275,9 +2258,6 @@
 				}
 			},
 			"SurvivorOfferings": [
-				0,
-				1,
-				2,
 				5
 			],
 			"KillerOfferings": [
@@ -2351,7 +2331,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -2529,7 +2508,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -2708,9 +2686,8 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
-				4
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -2782,7 +2759,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -2854,7 +2830,11 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
 			"KillerOfferings": []
 		},
 		{
@@ -2926,7 +2906,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -3002,7 +2981,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
@@ -3079,7 +3057,6 @@
 			},
 			"SurvivorOfferings": [
 				0,
-				1,
 				2,
 				5
 			],
