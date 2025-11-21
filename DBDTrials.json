@@ -1,6 +1,6 @@
 {
 	"Name": "DBD Trials",
-	"Version": 1761951650,
+	"Version": 1763755416,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -486,9 +486,7 @@
 					"Addons": [
 						0,
 						1,
-						2,
-						11,
-						12
+						2
 					]
 				},
 				"Toolbox": {
